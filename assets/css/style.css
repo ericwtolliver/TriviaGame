@@ -1,0 +1,28 @@
+body {
+  background-image: url("../images/Shibuya.jpg");
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  color: orange;
+  font-size: 65px;
+}
+
+.page-text {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.answerBtn {
+  margin-bottom: 10px;
+  width: 80%;
+  font-size: 20px;
+  background: none;
+  border: none;
+}
+
+.character {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
