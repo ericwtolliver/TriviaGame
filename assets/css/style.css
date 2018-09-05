@@ -4,8 +4,17 @@ body {
   padding: 0px;
 }
 
+.background {
+  background: violet;
+  padding: 20px 0px 20px 0px;
+}
+
+@font-face {
+  font-family: "Arial";
+}
+
 h1 {
-  color: orange;
+  color: black;
   font-size: 65px;
 }
 
